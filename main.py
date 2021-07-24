@@ -1,5 +1,4 @@
 from typing import Optional
-import service as _service
 import starlette.responses as _responses
 from fastapi import FastAPI, File, UploadFile
 import json
