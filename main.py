@@ -2,7 +2,7 @@ from typing import Optional
 import starlette.responses as _responses
 from fastapi import FastAPI, File, UploadFile
 import json
-import pandas as pd
+#import pandas as pd
 
 
 # with open('df_new0.json') as data_file:
